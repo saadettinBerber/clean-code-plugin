@@ -15,7 +15,10 @@
         "name": "saadettinBerber",
         "email": "saadettin.berber@std.yildiz.edu.tr"
       },
-      "source": "./",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/saadettinBerber/clean-code-plugin.git"
+      },
       "category": "productivity",
       "homepage": "https://github.com/saadettinBerber/clean-code-plugin"
     }
