@@ -3,9 +3,8 @@
   "description": "Clean Code toolkit: automated review, guided refactoring, and quality checks based on Robert C. Martin's principles. Includes agents, slash commands, and reference material.",
   "version": "1.0.0",
   "author": {
-    "name": "make_greater",
-    "email": ""
+    "name": "saadettinBerber",
+    "email": "saadettin.berber@std.yildiz.edu.tr"
   },
-  "category": "productivity",
-  "homepage": ""
+  "homepage": "https://github.com/saadettinBerber/clean-code-plugin"
 }
