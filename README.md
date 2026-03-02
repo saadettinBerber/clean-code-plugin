@@ -14,8 +14,14 @@
 
 ## Installation
 
-```bash
-/plugins add <repo-url>
+Claude Code içinde sırayla çalıştır:
+
+```
+/plugin marketplace add https://github.com/saadettinBerber/clean-code-plugin.git
+```
+
+```
+/plugin install clean-code@clean-code-plugin
 ```
 
 ## Usage
