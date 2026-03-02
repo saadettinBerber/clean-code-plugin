@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "clean-code-plugin",
+  "description": "Clean Code toolkit for Claude Code",
+  "owner": {
+    "name": "saadettinBerber",
+    "email": "saadettin.berber@std.yildiz.edu.tr"
+  },
+  "plugins": [
+    {
+      "name": "clean-code",
+      "description": "Clean Code toolkit: automated review, guided refactoring, and quality checks based on Robert C. Martin's principles.",
+      "version": "1.0.0",
+      "author": {
+        "name": "saadettinBerber",
+        "email": "saadettin.berber@std.yildiz.edu.tr"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/saadettinBerber/clean-code-plugin"
+    }
+  ]
+}
